@@ -46,9 +46,10 @@ Pour candidater efficacement, j’ai été chargé de concevoir un **portfolio e
 
 ---
 
-## 🟩 Portfolio en ligne
+## 🟩 Portfolio en ligne & Guide vidéo pour la création de visuel via Power BI 
 
 🌐 (https://sites.google.com/view/antoinevatin/accueil)
+🌐 (https://youtu.be/5mmIaQYn1k0)
 
 ---
 

@@ -20,29 +20,29 @@ Pour candidater efficacement, j’ai été chargé de concevoir un **portfolio e
 
 ### 🔹 Étapes projet :
 
-- 📌 **Carte mentale initiale** : structuration des éléments clés du portfolio
+- **Carte mentale initiale** : structuration des éléments clés du portfolio
 
-- 📁 **Livrables organisationnels** :
+- **Livrables organisationnels** :
   - Cahier des charges fonctionnel  
   - Analyse des besoins métier  
   - Diagramme de Gantt (Power BI)
 
-- 🧪 **Mock-up des dashboards** (veille & présentation personnelle)
+- **Mock-up des dashboards** (veille & présentation personnelle)
 
-- 📊 **Création des dashboards** (Power BI) & documentation associée
+- **Création des dashboards** (Power BI) & documentation associée
 
-- 🎥 **Vidéo explicative** du fonctionnement du portfolio
+- **Vidéo explicative** du fonctionnement du portfolio
 
-- 🌐 **Mise en ligne** sur Google Sites
+- **Mise en ligne** sur Google Sites
 
 ---
 
 ## 🟩 Résultats clés
 
-- 🌍 Un **portfolio complet, professionnel et interactif**, consultable en ligne  
-- 🛠️ Intégration fluide des projets, dashboards, parcours et méthodologie  
-- 🔁 Organisation projet maîtrisée via livrables structurants (Gantt, analyse, etc.)  
-- 🎯 Réponse ciblée aux attentes du client avec démonstration concrète des compétences
+- Un **portfolio complet, professionnel et interactif**, consultable en ligne  
+- Intégration fluide des projets, dashboards, parcours et méthodologie  
+- Organisation projet maîtrisée via livrables structurants (Gantt, analyse, etc.)  
+- Réponse ciblée aux attentes du client avec démonstration concrète des compétences
 
 ---
 

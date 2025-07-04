@@ -39,6 +39,7 @@ Pour candidater efficacement, j’ai été chargé de concevoir un **portfolio e
 
 ## 🟩 Difficultés rencontrées
 
+- **Traduire une demande RH** en un projet Data
 - Hiérarchisation des tâches dans un contexte multi-livrables
 - Recherche de **sources fiables** pour alimenter le tableau de bord de veille
 - Arbitrage entre **esthétique et clarté** dans les visuels Power BI

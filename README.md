@@ -27,13 +27,22 @@ Pour candidater efficacement, j’ai été chargé de concevoir un **portfolio e
   - Analyse des besoins métier  
   - Diagramme de Gantt (Power BI)
 
-- **Mock-up des dashboards** (veille & présentation personnelle)
+- **Mock-up des dashboards**
 
-- **Création des dashboards** (Power BI) & documentation associée
+- **Création des dashboards**
 
-- **Vidéo explicative** du fonctionnement du portfolio
+- **Vidéo explicative**
 
 - **Mise en ligne** sur Google Sites
+
+---
+
+## 🟩 Difficultés rencontrées
+
+- Hiérarchisation des tâches dans un contexte multi-livrables
+- Recherche de **sources fiables** pour alimenter le tableau de bord de veille
+- Arbitrage entre **esthétique et clarté** dans les visuels Power BI
+- Organisation personnelle et respect du planning initial
 
 ---
 
